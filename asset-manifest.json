@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React--cart-page/static/css/main.246505a4.css",
+    "main.js": "/React--cart-page/static/js/main.097994ff.js",
+    "static/js/787.7ab35018.chunk.js": "/React--cart-page/static/js/787.7ab35018.chunk.js",
+    "static/media/shopBG.jpg": "/React--cart-page/static/media/shopBG.2607f639fdf2a5bd084f.jpg",
+    "static/media/empty_cart.svg": "/React--cart-page/static/media/empty_cart.ffa113266186702caa5a87ad687e8ea0.svg",
+    "index.html": "/React--cart-page/index.html",
+    "main.246505a4.css.map": "/React--cart-page/static/css/main.246505a4.css.map",
+    "main.097994ff.js.map": "/React--cart-page/static/js/main.097994ff.js.map",
+    "787.7ab35018.chunk.js.map": "/React--cart-page/static/js/787.7ab35018.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.246505a4.css",
+    "static/js/main.097994ff.js"
+  ]
+}
